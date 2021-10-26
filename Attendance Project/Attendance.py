@@ -5,10 +5,10 @@ import os
 
 # ***** Below code adds image manually ****
 """
-imgAnish = face_recognition.load_image_file("Anish.jpg")
-imgAnish = cv2.cvtColor(imgAnish, cv2.COLOR_BGR2RGB)
+imgRahul = face_recognition.load_image_file("Rahul.jpg")
+imgRahul = cv2.cvtColor(imgRahul, cv2.COLOR_BGR2RGB)
 
-imgTest = face_recognition.load_image_file("Anish-test.jpg")
+imgTest = face_recognition.load_image_file("Rahul-test.jpg")
 imgTest = cv2.cvtColor(imgTest, cv2.COLOR_BGR2RGB)
 """
 
