@@ -2,7 +2,7 @@ import cv2
 # import numpy as np
 import face_recognition
 
-# imgAnish = cv2.VideoCapture(0)
+# imgRahul = cv2.VideoCapture(0)
 # result= True
 # while(result):
 #     ret,frame = imgAmit.read()
